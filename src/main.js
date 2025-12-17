@@ -5,7 +5,7 @@ const app = document.getElementById('app')
 
 app.innerHTML = `
   <div class="min-h-screen flex items-center justify-center bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 p-6">
-    <div class="bg-slate-800/80 backdrop-blur-xl rounded-3xl shadow-2xl 
+    <div class="min-w-[90%] bg-slate-800/80 backdrop-blur-xl rounded-3xl shadow-2xl 
                 border border-slate-700/50 p-8 max-w-md w-full">
       
       <!-- Header -->
